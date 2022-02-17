@@ -1,0 +1,10 @@
+﻿  server.cpp
+C:\Users\yasem\OneDrive\Desktop\3DPUB\Multiplayer\proiect\Server\server.cpp(176,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yasem\OneDrive\Desktop\3DPUB\Multiplayer\proiect\Server\server.cpp(308,38): warning C4244: 'argument': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\yasem\OneDrive\Desktop\3DPUB\Multiplayer\proiect\Server\server.cpp(309,50): warning C4244: 'argument': conversion from 'uint64_t' to 'int', possible loss of data
+  Generating code
+  60 of 498 functions (12.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Server.vcxproj -> C:\Users\yasem\OneDrive\Desktop\3DPUB\Multiplayer\proiect\Server\x64\Release\Server.exe

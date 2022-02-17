@@ -1,0 +1,7 @@
+﻿  client.cpp
+C:\Users\yasem\OneDrive\Desktop\3DPUB\Multiplayer\proiect\Client\client.cpp(58,67): warning C4244: 'return': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Client.vcxproj -> C:\Users\yasem\OneDrive\Desktop\3DPUB\Multiplayer\proiect\Client\x64\Debug\Client.exe

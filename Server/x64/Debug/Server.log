@@ -1,0 +1,11 @@
+﻿  server.cpp
+C:\Users\yasem\OneDrive\Desktop\3DPUB\Multiplayer\proiect\Server\server.cpp(211,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yasem\OneDrive\Desktop\3DPUB\Multiplayer\proiect\Server\server.cpp(364,46): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\yasem\OneDrive\Desktop\3DPUB\Multiplayer\proiect\Server\server.cpp(389,23): warning C4244: '=': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=uint64_t
+          ]
+C:\Users\yasem\OneDrive\Desktop\3DPUB\Multiplayer\proiect\Server\server.cpp(415,53): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\yasem\OneDrive\Desktop\3DPUB\Multiplayer\proiect\Server\server.cpp(405,14): warning C4101: 'timeNow': unreferenced local variable
+  Server.vcxproj -> C:\Users\yasem\OneDrive\Desktop\3DPUB\Multiplayer\proiect\Server\x64\Debug\Server.exe

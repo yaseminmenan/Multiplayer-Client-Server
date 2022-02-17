@@ -1,0 +1,2 @@
+C:\Users\yasem\OneDrive\Desktop\3DPUB\Multiplayer\lab5\Server\x64\Release\Server.exe
+C:\Users\yasem\OneDrive\Desktop\3DPUB\Multiplayer\proiect\Server\x64\Release\Server.exe

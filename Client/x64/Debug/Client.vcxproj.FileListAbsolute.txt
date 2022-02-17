@@ -1,0 +1,2 @@
+C:\Users\yasem\OneDrive\Desktop\3DPUB\Multiplayer\lab5\Client\x64\Debug\Client.exe
+C:\Users\yasem\OneDrive\Desktop\3DPUB\Multiplayer\proiect\Client\x64\Debug\Client.exe
